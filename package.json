@@ -1,0 +1,23 @@
+{
+  "name": "unittest-jscode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^27.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Medini-Rajendra/unittest-jscode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Medini-Rajendra/unittest-jscode/issues"
+  },
+  "homepage": "https://github.com/Medini-Rajendra/unittest-jscode#readme"
+}
